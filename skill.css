@@ -1,0 +1,28 @@
+/* skill-chart.css */
+.skill-chart-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.skill-bar {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.skill-bar div {
+    width: 100%;
+    background-color: #007bff;
+    margin: 5px 0;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.skill-bar label {
+    margin-top: 10px;
+    font-weight: bold;
+}

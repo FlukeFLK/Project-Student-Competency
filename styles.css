@@ -1,0 +1,17 @@
+
+body {
+    background-color: #D9D9D9;
+    color: #41826E;
+}
+
+.services {
+    background-color: #D9D9D9;
+}
+
+.services .card {
+    margin-bottom: 20px;
+}
+
+footer {
+    color: #fff;
+}
